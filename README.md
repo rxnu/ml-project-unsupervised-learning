@@ -1,13 +1,13 @@
-# machine_learning_project-unsupervised-learning
+
 
 ## Project Objective
-Identify distinct customer groups based on their purchase patterns, allowing for tailored marketing strategies, promotions, and inventory management.
+- Identify distinct customer groups based on their purchase patterns, allowing for tailored marketing strategies, promotions, and inventory management.
 
 ## Project Outcomes
 
-- Unsupervised Learning: perform unsupervised learning techniques on a wholesale data dataset. The project involves four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
+- Apply unsupervised learning techniques—including EDA, K-Means clustering, hierarchical clustering, and PCA—to segment wholesale customers.
 
-## Dataset
+## Data Overview
 
 - **Source:** Kaggle “Wholesale Customer Data”  
 - **Features:**  
@@ -46,7 +46,7 @@ Identify distinct customer groups based on their purchase patterns, allowing for
 
 ## Key Findings
 
-- **Cluster Profiles:**  
+- identified three shopper **Cluster Profiles:**  
   1. **Pantry Shoppers:** High Grocery & Detergents_Paper, low Fresh/Frozen  
   2. **Perishables Enthusiasts:** High Fresh & Frozen, low packaged goods  
   3. **All-Around High-Volume:** High spend across all categories
